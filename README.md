@@ -5,4 +5,4 @@
 
 # Install
 
-Go to 'https://github.com/willsketch/Alien_Invasion' to see the project, manage issues
+Go to 'https://github.com/willsketch/Alien_Invasion' to see the project
